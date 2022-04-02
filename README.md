@@ -6,7 +6,7 @@
 
 <h1 align="center">Trabalho prático - Teoria e Modelo de Grafos</h1>
 
-<p align="center">Implementar uma biblioteca para manipular grafos não direcionados ponderados </p>
+<p align="center">Implementar uma biblioteca para manipular grafos não direcionados ponderados e direcionados ponderados</p>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADOO&color=GREEN&style=for-the-badge)
 
