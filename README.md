@@ -11,17 +11,6 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADOO&color=GREEN&style=for-the-badge)
 
 
-## Descrição do Projeto
-
-O objetivo do trabalho é projetar e implementar uma biblioteca para manipular grafos não direcionados ponderados e direcionados ponderados. As ponderações são valores reais que devem estar associados às arestas do grafo.
-
-
-<div align="center">
-   <img width="400" height="400" alt="Grafo" src="https://user-images.githubusercontent.com/81054281/161362835-609372f2-1380-4bb9-a323-4e1f91d81706.png">
-   <img width="300" height="400" alt="Entradas" src="https://user-images.githubusercontent.com/81054281/161362957-ee499087-a690-4aef-be48-06618f510ca4.png"/>
-</div>
-
-Entrada de dados: A biblioteca deve ser capaz de ler um grafo de um arquivo texto. O formato do grafo no arquivo será o seguinte: a primeira linha informa o número de vértices do grafo, cada linha subsequente informa as arestas com seu respectivo peso
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -30,8 +19,7 @@ Entrada de dados: A biblioteca deve ser capaz de ler um grafo de um arquivo text
 
 ## 🔨 Funcionalidades principais do projeto
 
-O objetivo do trabalho é acrescentar as seguintes funções na biblioteca desenvolvida
-no trabalho anterior:
+O objetivo do trabalho é acrescentar as seguintes funções na biblioteca desenvolvida no trabalho (https://github.com/Victoria-Rodrigues/Grafo-Biblioteca) :
 - Conjunto independente ou estável de um grafo por meio de uma heurística gulosa.
 - Número cromático de um grafo (utilize o algoritmo DSATUR).
 - Baseando-se na representação do trabalho (https://github.com/Victoria-Rodrigues/Grafo-Biblioteca) deve-se propor uma
